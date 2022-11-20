@@ -14,12 +14,12 @@ Features :
 - Detail News by click any news list (Webview)
 - Browse Sources
 - Search any news 
-- test negative case :![IMG-20221120-WA0005](https://user-images.githubusercontent.com/48192666/202881525-34b8447d-620d-412a-b257-d29ff656f24a.jpg)
- no internet connection
+- test negative case : no internet connection
+
 
 Screenshoots :
-![IMG-20221120-WA0002](https://user-images.githubusercontent.com/48192666/202881504-c5f3853c-5d2c-42af-8606-678e7c8d7300.jpg)
-![IMG-20221120-WA0003](https://user-images.githubusercontent.com/48192666/202881515-762d6159-651a-4ada-8b96-b449ed885da0.jpg)
+![IMG-20221120-WA0002](https://user-images.githubusercontent.com/48192666/202881504-c5f3853c-5d2c-42af-8606-678e7c8d7300.jpg) ![IMG-20221120-WA0003](https://user-images.githubusercontent.com/48192666/202881515-762d6159-651a-4ada-8b96-b449ed885da0.jpg)
+
 ![IMG-20221120-WA0005](https://user-images.githubusercontent.com/48192666/202881533-f8ce2cfe-0bc6-4f19-b7ad-dca32b9d6121.jpg)
 ![IMG-20221120-WA0006](https://user-images.githubusercontent.com/48192666/202881540-d9af3862-7433-42c1-8f7e-d97d90b4365e.jpg)
 ![IMG-20221120-WA0007](https://user-images.githubusercontent.com/48192666/202881546-978ff52a-8c22-4044-b187-3a8059734404.jpg)
